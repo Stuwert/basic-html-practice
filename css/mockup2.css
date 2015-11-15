@@ -1,0 +1,19 @@
+p{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+img{
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+h1{
+  margin: 1em;
+}
+
+.image{
+  margin: 0 auto;
+  /*background-color: pink;*/
+  width: 500px;
+}
